@@ -1,0 +1,9 @@
+.meal-div{
+    border: 1px solid yellowgreen;
+    border-radius: 5px;
+    padding: 20px;
+}
+.meal-name{
+    font-size: 40px;
+    color: brown;
+}
